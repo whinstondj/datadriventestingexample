@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99741" started-at="2021-10-24T21:02:54 COT" finished-at="2021-10-24T21:04:34 COT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99741" started-at="2021-10-24T21:02:54 COT" finished-at="2021-10-24T21:04:34 COT">
+      <class name="testcases.FormularioContacto">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testcases.FormularioContacto@266374ef]" name="openBrowser" is-config="true" duration-ms="1356" started-at="2021-10-24T21:02:54 COT" finished-at="2021-10-24T21:02:55 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="aplicarDataForm()[pri:0, instance:testcases.FormularioContacto@266374ef]" name="aplicarDataForm" duration-ms="98206" started-at="2021-10-24T21:02:55 COT" finished-at="2021-10-24T21:04:34 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aplicarDataForm -->
+        <test-method status="PASS" signature="cerrarNavegador()[pri:0, instance:testcases.FormularioContacto@266374ef]" name="cerrarNavegador" is-config="true" duration-ms="129" started-at="2021-10-24T21:04:34 COT" finished-at="2021-10-24T21:04:34 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- testcases.FormularioContacto -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
